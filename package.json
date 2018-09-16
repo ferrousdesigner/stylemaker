@@ -1,6 +1,6 @@
 {
   "name": "stylemaker",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A simple tool to implement and use CSS in JS.",
   "main": "lib/index.js",
   "scripts": {
@@ -21,8 +21,9 @@
     "webpack-cli": "^3.1.0",
     "webpack-dev-server": "^3.1.8"
   },
-  "dependencies": {
-    "react": "^16.5.0",
-    "react-dom": "^16.5.0"
+  "keywords": ["style-maker", "cssinjs", "stylereact", "combine-style", "stylemaker"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ferrousdesigner/stylemaker.git"
   }
 }
