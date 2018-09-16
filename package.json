@@ -21,7 +21,7 @@
     "webpack-cli": "^3.1.0",
     "webpack-dev-server": "^3.1.8"
   },
-  "keywords": ["style-maker", "cssinjs", "stylereact", "combine-style", "stylemaker"],
+  "keywords": ["jss", "style-maker", "cssinjs", "stylereact", "combine-style", "stylemaker"],
   "repository": {
     "type": "git",
     "url": "https://github.com/ferrousdesigner/stylemaker.git"
