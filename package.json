@@ -1,6 +1,6 @@
 {
   "name": "stylemaker",
-  "version": "0.0.3",
+  "version": "0.0.4-beta-2",
   "description": "A simple tool to implement and use CSS in JS.",
   "main": "lib/index.js",
   "scripts": {
