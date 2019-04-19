@@ -1,8 +1,9 @@
-const StyleMaker = (css, mute) => {
+const StyleMaker = (css, id, mute) => {
     if(css) {
         if(mute === '--verbose' || mute === '-v') console.log('Initialising Style Maker', css);
         let head = document.head || document.getElementsByTagName('head')[0];
         let style = document.createElement('style');
+        if(id) style.id = id
     
         style.type = 'text/css';
         if (style.styleSheet){

@@ -11,7 +11,7 @@ npm i -S stylemaker
 ## Usage
 
 ```bash
-import StyleMaker from 'StyleMaker';
+import StyleMaker from 'style-maker';
 var yourCssString = `
     #header {
         font-size: 24px;
